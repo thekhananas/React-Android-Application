@@ -2,6 +2,6 @@
 
 Implementation of React tutorials
 
-![Demo](videos\demo.gif)
+## Demo
 
-<img src="videos\ezgif.com-video-to-gif.gif">
+<img src="videos/demo.gif">
