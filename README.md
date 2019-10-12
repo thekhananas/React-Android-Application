@@ -4,4 +4,6 @@ Implementation of React tutorials
 
 ## Demo
 
-<img src="videos/demo.gif">
+<p align="center">
+  <img src="videos/demo.gif" align="center" width="270">
+</p>
